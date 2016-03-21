@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Example Extension for DashClock</string>
+    <string name="extension_title">Example extension</string>
+    <string name="extension_description">Displays a nice, friendly hello message.</string>
+    <string name="pref_name_title">Your name</string>
+    <string name="pref_name_default">John Smith</string>
+    <string name="title_settings">Example Extension Settings</string>
+    <string name="title_activity_example_settings">ExampleSettingsActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="compose_email">Compose Email</string>
+    <string name="get_location">Get Location</string>
+    <string name="disconnect">Disconnect Service</string>
+    <string name="connect">Connect Service</string>
+    <string name="permission_label_read_extension_data">permission_label_read_extension_data</string>
+    <string name="permission_desc_read_extension_data">permission_desc_read_extension_data</string>
+    <string name="GOOGLE_MAPS_API_KEY">AIzaSyDC0L3oLRRihnPRFTPd3xPjAeH3fasDXwA</string>
+</resources>
